@@ -131,9 +131,8 @@ The padding is very important to make sure the scrollspy picks up the right area
     list-style-type: none;
 }
 .mapsSection {
-    height: 100%;
-    padding-top: 10px;
-    padding-bottom: 50px;
+    min-height: 100%
+    padding: 60px 0 50px 0;
     text-align: center;
     background: #e5e6eb;
 }
