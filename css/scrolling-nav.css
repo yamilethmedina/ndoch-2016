@@ -7,6 +7,7 @@
 body {
     width: 100%;
     height: 100%;
+    font-family: 'Arimo', sans-serif;
 }
 html {
     width: 100%;
@@ -106,7 +107,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 .docsSection {
     min-height: 100%;
-    padding: 100px 0 50px 0;    
+    padding: 100px 0 50px 0;
     background: #e5e6eb;
 }
 
