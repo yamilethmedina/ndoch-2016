@@ -13,15 +13,25 @@ html {
     height: 100%;
 }
 .navbar {
+<<<<<<< HEAD
     background: #70dbdb;
+=======
+  background: #70dbdb;
+>>>>>>> origin/gh-pages
 }
 .navbar-default .navbar-nav > li > a {
     color: #f8f8fa;
 }
 footer {
+<<<<<<< HEAD
     background: #afafaf;
     padding: 10px 0;
     text-align: center;
+=======
+  background: #70dbdb;
+  padding: 10px 0;
+  text-align: center;
+>>>>>>> origin/gh-pages
 }
 footer > a {
     color: #f8f8fa;
@@ -37,19 +47,31 @@ footer > a {
         padding: 0;
     }*/
 }
+/*
+@media(max-width:767px) {
+  .qualification, .introSection, .benefitsSection, .helpSection, .mapsSection, .storiesSection {
+      height: auto;
+  }
+}*/
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children of those sections to manage the look and feel of the site. */
 
 .introSection {
+<<<<<<< HEAD
     height: 100%;
     padding-top: 10px;
     padding-bottom: 50px;
+=======
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+>>>>>>> origin/gh-pages
     text-align: center;
-    background-image: url("/ndoch-2016/image/apartment.jpg");
+    background-image: url("../image/apartment.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: aliceblue;
+<<<<<<< HEAD
 }
 .introSection h1 {
     padding: 40px 0 20px;
@@ -78,23 +100,53 @@ The padding is very important to make sure the scrollspy picks up the right area
     padding-top: 60px;
     padding-bottom: 50px;
     text-align: center;
+=======
+
+}
+
+.introSection h1{
+
+    padding: 20px;
+}
+
+.introSection p{
+
+    padding-top: 110px;
+}
+
+.qualification {
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+    /*text-align: center;*/
+>>>>>>> origin/gh-pages
     background: #f8f8fa;
 }
 .benefitsSection {
+<<<<<<< HEAD
     height: 100%;
     padding-top: 10px;
     padding-bottom: 50px;
+=======
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+>>>>>>> origin/gh-pages
     text-align: center;
     background: #e5e6eb;
 }
 .helpSection {
+<<<<<<< HEAD
     height: 100%;
     padding-top: 10px;
     padding-bottom: 50px;
+=======
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+>>>>>>> origin/gh-pages
     text-align: center;
     background: #f8f8fa;
 }
 .mapsSection {
+<<<<<<< HEAD
     height: 100%;
     padding-top: 10px;
     padding-bottom: 50px;
@@ -105,6 +157,35 @@ The padding is very important to make sure the scrollspy picks up the right area
     height: 100%;
     padding-top: 10px;
     padding-bottom: 50px;
+=======
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+    text-align: center;
+    background: #e5e6eb;
+}
+
+.storiesSection {
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+>>>>>>> origin/gh-pages
     text-align: center;
     background: #f8f8fa;
+}
+
+@media(min-width:767px) {
+
+  #types {
+    width: 50%;
+    float: left;
+    padding: 10px;
+  }
+
+  #process {
+    width: 50%;
+    float: right;
+  }
+}
+
+#credit {
+  font-size: small;
 }
