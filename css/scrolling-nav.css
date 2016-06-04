@@ -38,21 +38,37 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.about-section {
+.qualification {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #eee;
 }
 
-.services-section {
+.benefitsSection {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
 
-.contact-section {
+.helpSection {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.mapsSection {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+
+
+.storiesSection {
     height: 100%;
     padding-top: 150px;
     text-align: center;
