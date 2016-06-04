@@ -8,43 +8,36 @@ body {
     width: 100%;
     height: 100%;
 }
-
 html {
     width: 100%;
     height: 100%;
 }
-
 .navbar {
-  background: #70dbdb;
+    background: #70dbdb;
 }
-
 .navbar-default .navbar-nav > li > a {
-  color: #f8f8fa;
+    color: #f8f8fa;
 }
-
 footer {
-  background: #70dbdb;
-  padding: 10px 0;
-  text-align: center;
+    background: #70dbdb;
+    padding: 10px 0;
+    text-align: center;
 }
-
-footer > a {
-  color: #f8f8fa;
+footer a {
+    color: #f8f8fa;
 }
-
-
 @media(min-width:767px) {
     .navbar {
         padding: 5px 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        transition: background .5s ease-in-out, padding .5s ease-in-out;
     }
-
     /*.top-nav-collapse {
         padding: 0;
     }*/
 }
+
 /*
 @media(max-width:767px) {
   .qualification, .introSection, .benefitsSection, .helpSection, .mapsSection, .storiesSection {
@@ -52,10 +45,9 @@ footer > a {
   }
 }*/
 
+
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children of those sections to manage the look and feel of the site. */
-
-
 
 .introSection {
     min-height: 100%;
@@ -65,53 +57,69 @@ The padding is very important to make sure the scrollspy picks up the right area
     background-repeat: no-repeat;
     background-size: cover;
     color: aliceblue;
-
 }
-
-.introSection h1{
-
+.introSection h1 {
+    padding: 40px 0 20px;
+    margin-bottom: 200px;
+    font-size: 4em;
+}
+.introSection p {
+    margin-top: 70px;
+    font-size: 18px;
+}
+.introSection a {
+    background: linear-gradient(#ffe600, #ffa500);
+    padding: 10px 30px;
+    color: black;
+    box-shadow: 6px 6px black;
+    font-weight: 700;
+    font-family: Courier, monospace;
+}
+.introSection a:hover {
+    text-decoration: none;
+}
+.qualification {
+    height: 100%;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.introSection h1 {
     padding: 20px;
 }
-
-.introSection p{
-
+.introSection p {
     padding-top: 110px;
 }
-
 .qualification {
     min-height: 100%;
     padding: 60px 0 50px 0;
     /*text-align: center;*/
     background: #f8f8fa;
 }
-
 .benefitsSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
     text-align: center;
     background: #e5e6eb;
 }
-
 .helpSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
     text-align: center;
     background: #f8f8fa;
 }
-
 .mapsSection {
-    min-height: 100%;
-    padding: 60px 0 50px 0;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
     text-align: center;
     background: #e5e6eb;
 }
-
 .storiesSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
     text-align: center;
     background: #f8f8fa;
-
 }
 /*
 .name {
@@ -142,19 +150,16 @@ The padding is very important to make sure the scrollspy picks up the right area
 }
 
 @media(min-width:767px) {
-
-  #types {
-    width: 50%;
-    float: left;
-    padding: 10px;
-  }
-
-  #process {
-    width: 50%;
-    float: right;
-  }
+    #types {
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }
+    #process {
+        width: 50%;
+        float: right;
+    }
 }
-
 #credit {
-  font-size: small;
+    font-size: small;
 }
