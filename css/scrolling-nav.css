@@ -131,8 +131,8 @@ The padding is very important to make sure the scrollspy picks up the right area
 }
 
 .benefitsSection img {
-    height: 300px;
-    width: 500px;   
+    height: 100%;
+    width: 100%; 
 }
 
 .benefitsSection p {
