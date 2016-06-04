@@ -1,7 +1,7 @@
 $(function() {
     $.ajax({
         dataType: "json",
-        url: '/miami-dade-low-cost-developments.json',
+        url: '/ndoch-2016/miami-dade-low-cost-developments.json',
         success: populateMap,
         error: console.log
     });
