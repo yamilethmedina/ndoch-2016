@@ -15,7 +15,7 @@ html {
 }
 
 .navbar {
-  background: #cce6ff;
+  background: #70dbdb;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -23,7 +23,7 @@ html {
 }
 
 footer {
-  background: #afafaf;
+  background: #70dbdb;
   padding: 10px 0;
   text-align: center;
 }
@@ -45,6 +45,12 @@ footer > a {
         padding: 0;
     }*/
 }
+/*
+@media(max-width:767px) {
+  .qualification, .introSection, .benefitsSection, .helpSection, .mapsSection, .storiesSection {
+      height: auto;
+  }
+}*/
 
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children of those sections to manage the look and feel of the site. */
@@ -52,8 +58,8 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 
 .introSection {
-    height: 100%;
-    padding-top: 150px;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
     text-align: center;
     background-image: url("../image/apartment.jpg");
     background-repeat: no-repeat;
@@ -64,7 +70,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 .introSection h1{
 
-    padding: 10px;
+    padding: 20px;
 }
 
 .introSection p{
@@ -73,40 +79,55 @@ The padding is very important to make sure the scrollspy picks up the right area
 }
 
 .qualification {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
+    /*text-align: center;*/
     background: #f8f8fa;
 }
 
 .benefitsSection {
-    height: 100%;
-    padding-top: 150px;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
     text-align: center;
     background: #e5e6eb;
 }
 
 .helpSection {
-    height: 100%;
-    padding-top: 150px;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
     text-align: center;
     background: #f8f8fa;
 }
 
 .mapsSection {
-    height: 100%;
-    padding-top: 150px;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
     text-align: center;
     background: #e5e6eb;
 }
 
-
-
 .storiesSection {
-    height: 100%;
-    padding-top: 150px;
+    min-height: 100%;
+    padding: 60px 0 50px 0;
     text-align: center;
-
     background: #f8f8fa;
 
+}
+
+@media(min-width:767px) {
+
+  #types {
+    width: 50%;
+    float: left;
+    padding: 10px;
+  }
+
+  #process {
+    width: 50%;
+    float: right;
+  }
+}
+
+#credit {
+  font-size: small;
 }
