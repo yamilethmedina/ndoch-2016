@@ -52,16 +52,16 @@ The padding is very important to make sure the scrollspy picks up the right area
 .introSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
-    text-align: center;
     background-image: url("../image/apartment.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: aliceblue;
+    text-align: center;
 }
 .introSection h1 {
     padding: 40px 0 20px;
     margin-bottom: 200px;
-    font-size: 4em;
+    font-size: 3.6em;
 }
 .introSection p {
     margin-top: 70px;
@@ -78,12 +78,12 @@ The padding is very important to make sure the scrollspy picks up the right area
 .introSection a:hover {
     text-decoration: none;
 }
-.qualification {
+/*.qualification {
     height: 100%;
     padding-top: 60px;
     padding-bottom: 50px;
     text-align: center;
-}
+}*/
 .introSection h1 {
     padding: 20px;
 }
@@ -92,21 +92,42 @@ The padding is very important to make sure the scrollspy picks up the right area
 }
 .qualification {
     min-height: 100%;
-    padding: 60px 0 50px 0;
+    padding: 60px 0 100px 0;
     /*text-align: center;*/
     background: #f8f8fa;
 }
+
+.barriersSection {
+    min-height: 100%;
+    padding: 100px 0 50px 0;
+    text-align: center;
+    background: #f8f8fa;
+}
+
+.docsSection {
+    min-height: 100%;
+    padding: 100px 0 50px 0;    
+    background: #e5e6eb;
+}
+
+.docsSection h1 {
+    text-align: center;
+}
 .benefitsSection {
     min-height: 100%;
-    padding: 60px 0 50px 0;
+    padding: 100px 0 50px 0;
     text-align: center;
     background: #e5e6eb;
 }
 .helpSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
-    text-align: center;
     background: #f8f8fa;
+}
+
+.helpSection li {
+    padding: 10px;
+    list-style-type: none;
 }
 .mapsSection {
     height: 100%;
@@ -148,6 +169,6 @@ The padding is very important to make sure the scrollspy picks up the right area
         float: right;
     }
 }
-#credit {
+.credit {
     font-size: small;
 }
