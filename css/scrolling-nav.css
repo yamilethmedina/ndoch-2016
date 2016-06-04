@@ -8,6 +8,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Arimo', sans-serif;
+    background: #e5e6eb;
 }
 html {
     width: 100%;
@@ -136,6 +137,13 @@ The padding is very important to make sure the scrollspy picks up the right area
     text-align: center;
     background: #e5e6eb;
 }
+
+.otherMaps {
+    text-align: center;
+    padding-bottom:50px;
+    background: #e5e6eb;
+}
+
 .storiesSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
