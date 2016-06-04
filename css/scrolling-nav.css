@@ -140,7 +140,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 .otherMaps {
     text-align: center;
-    padding-bottom:50px;
+    padding-bottom: 50px;
     background: #e5e6eb;
 }
 
@@ -168,6 +168,10 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 .testimonial {
   padding: 50px;
+}
+
+.disclaimer {
+  padding-left: 25px;
 }
 
 @media(min-width:767px) {
