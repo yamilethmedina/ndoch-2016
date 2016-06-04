@@ -66,7 +66,7 @@ The padding is very important to make sure the scrollspy picks up the right area
     font-size: 3.6em;
 }
 .introSection p {
-    margin-top: 70px;
+    margin-top: 10px;
     font-size: 18px;
 }
 .introSection a {
@@ -80,7 +80,10 @@ The padding is very important to make sure the scrollspy picks up the right area
 .introSection a:hover {
     text-decoration: none;
 }
+
+
 /*.qualification {
+>>>>>>> origin/gh-pages
     height: 100%;
     padding-top: 60px;
     padding-bottom: 50px;
@@ -117,10 +120,33 @@ The padding is very important to make sure the scrollspy picks up the right area
 }
 .benefitsSection {
     min-height: 100%;
-    padding: 100px 0 50px 0;
+    padding-top: 25px;
     text-align: center;
     background: #e5e6eb;
+    margin-bottom: 10px;
 }
+
+.benefitsSection h1 {
+    padding-bottom: 25px;
+}
+
+.benefitsSection img {
+    height: 400px;
+    width: 500px;   
+}
+
+.benefitsSection p {
+    font-size: 15px;
+}
+
+#benefitText {
+    margin-bottom: 15px;
+}
+
+#benefitButton {
+    padding: 5px 15px;
+}
+
 .helpSection {
     min-height: 100%;
     padding: 60px 0 50px 0;
