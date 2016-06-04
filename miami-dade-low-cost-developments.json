@@ -1,0 +1,3974 @@
+{
+  "name": "housing",
+  "hits": 496,
+  "results": [
+    {
+      "id": "400",
+      "totalUnits": 144,
+      "developmentType": "Public housing",
+      "longitude": "-80.23283425",
+      "latitude": "25.82684338",
+      "developmentName": "Annie Coleman Site 15"
+    },
+    {
+      "id": "401",
+      "totalUnits": 245,
+      "developmentType": "Public housing",
+      "longitude": "-80.23208609",
+      "latitude": "25.82341965",
+      "developmentName": "Annie Coleman Site 14"
+    },
+    {
+      "id": "402",
+      "totalUnits": 210,
+      "developmentType": "Public housing",
+      "longitude": "-80.22878179",
+      "latitude": "25.82982806",
+      "developmentName": "Annie Coleman Site 16"
+    },
+    {
+      "id": "403",
+      "totalUnits": 55,
+      "developmentType": "Public housing",
+      "longitude": "-80.22615472",
+      "latitude": "25.80133194",
+      "developmentName": "Abe Arronovitz"
+    },
+    {
+      "id": "404",
+      "totalUnits": 24,
+      "developmentType": "Public housing",
+      "longitude": "-80.20175255",
+      "latitude": "25.8214696",
+      "developmentName": "Buena Vista Homes"
+    },
+    {
+      "id": "405",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.21632534",
+      "latitude": "25.80902624",
+      "developmentName": "Allapattah Homes"
+    },
+    {
+      "id": "406",
+      "totalUnits": 166,
+      "developmentType": "Public housing",
+      "longitude": "-80.2079911",
+      "latitude": "25.79305433",
+      "developmentName": "Claude Pepper Tower"
+    },
+    {
+      "id": "407",
+      "totalUnits": 75,
+      "developmentType": "Public housing",
+      "longitude": "-80.20299873",
+      "latitude": "25.77944973",
+      "developmentName": "Culmer Gardens"
+    },
+    {
+      "id": "408",
+      "totalUnits": 52,
+      "developmentType": "Public housing",
+      "longitude": "-80.43701076",
+      "latitude": "25.49950212",
+      "developmentName": "Biscayne Plaza"
+    },
+    {
+      "id": "409",
+      "totalUnits": 151,
+      "developmentType": "Public housing",
+      "longitude": "-80.20510805",
+      "latitude": "25.78339143",
+      "developmentName": "Culmer Place"
+    },
+    {
+      "id": "410",
+      "totalUnits": 184,
+      "developmentType": "Public housing",
+      "longitude": "-80.37533875",
+      "latitude": "25.56643164",
+      "developmentName": "Arthur Mays Village"
+    },
+    {
+      "id": "411",
+      "totalUnits": 345,
+      "developmentType": "Public housing",
+      "longitude": "-80.20238561",
+      "latitude": "25.83247188",
+      "developmentName": "Edison Courts"
+    },
+    {
+      "id": "412",
+      "totalUnits": 80,
+      "developmentType": "Public housing",
+      "longitude": "-80.20083173",
+      "latitude": "25.8259896",
+      "developmentName": "Edison Plaza"
+    },
+    {
+      "id": "413",
+      "totalUnits": 151,
+      "developmentType": "Public housing",
+      "longitude": "-80.22562124",
+      "latitude": "25.80338318",
+      "developmentName": "Dante Fascell"
+    },
+    {
+      "id": "414",
+      "totalUnits": 28,
+      "developmentType": "Public housing",
+      "longitude": "-80.23724775",
+      "latitude": "25.78885741",
+      "developmentName": "Elizabeth Virrick I"
+    },
+    {
+      "id": "415",
+      "totalUnits": 32,
+      "developmentType": "Public housing",
+      "longitude": "-80.20145218",
+      "latitude": "25.82702358",
+      "developmentName": "Edison Park"
+    },
+    {
+      "id": "416",
+      "totalUnits": 48,
+      "developmentType": "Public housing",
+      "longitude": "-80.22117185",
+      "latitude": "25.76899232",
+      "developmentName": "Falk Turnkey"
+    },
+    {
+      "id": "417",
+      "totalUnits": 42,
+      "developmentType": "Public housing",
+      "longitude": "-80.19693418",
+      "latitude": "25.84654285",
+      "developmentName": "Emmer Turnkey"
+    },
+    {
+      "id": "418",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.48570246",
+      "latitude": "25.47805655",
+      "developmentName": "Florida City Gardens"
+    },
+    {
+      "id": "419",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.37885342",
+      "latitude": "25.56910823",
+      "developmentName": "Goulds Plaza"
+    },
+    {
+      "id": "420",
+      "totalUnits": 21,
+      "developmentType": "Public housing",
+      "longitude": "-80.20795398",
+      "latitude": "25.78952368",
+      "developmentName": "Green Turnkey"
+    },
+    {
+      "id": "421",
+      "totalUnits": 24,
+      "developmentType": "Public housing",
+      "longitude": "-80.25213346",
+      "latitude": "25.72983662",
+      "developmentName": "Grove Homes"
+    },
+    {
+      "id": "422",
+      "totalUnits": 64,
+      "developmentType": "Public housing",
+      "longitude": "-80.2268584",
+      "latitude": "25.80210198",
+      "developmentName": "Donn Gardens"
+    },
+    {
+      "id": "423",
+      "totalUnits": 8,
+      "developmentType": "Public housing",
+      "longitude": "-80.19971244",
+      "latitude": "25.83991164",
+      "developmentName": "Gwen Cherry 06"
+    },
+    {
+      "id": "424",
+      "totalUnits": 21,
+      "developmentType": "Public housing",
+      "longitude": "-80.21328032",
+      "latitude": "25.79903804",
+      "developmentName": "Gwen Cherry 08"
+    },
+    {
+      "id": "425",
+      "totalUnits": 6,
+      "developmentType": "Public housing",
+      "longitude": "-80.21138826",
+      "latitude": "25.8035055",
+      "developmentName": "Gwen Cherry 12"
+    },
+    {
+      "id": "426",
+      "totalUnits": 78,
+      "developmentType": "Public housing",
+      "longitude": "-80.22951963",
+      "latitude": "25.79830698",
+      "developmentName": "Gwen Cherry 14"
+    },
+    {
+      "id": "427",
+      "totalUnits": 35,
+      "developmentType": "Public housing",
+      "longitude": "-80.21555275",
+      "latitude": "25.79914395",
+      "developmentName": "Gwen Cherry 13"
+    },
+    {
+      "id": "428",
+      "totalUnits": 70,
+      "developmentType": "Public housing",
+      "longitude": "-80.22816104",
+      "latitude": "25.79250427",
+      "developmentName": "Gwen Cherry 16"
+    },
+    {
+      "id": "429",
+      "totalUnits": 23,
+      "developmentType": "Public housing",
+      "longitude": "-80.19839915",
+      "latitude": "25.84547674",
+      "developmentName": "Gwen Cherry 20"
+    },
+    {
+      "id": "430",
+      "totalUnits": 20,
+      "developmentType": "Public housing",
+      "longitude": "-80.19551233",
+      "latitude": "25.84008194",
+      "developmentName": "Gwen Cherry 22"
+    },
+    {
+      "id": "431",
+      "totalUnits": 475,
+      "developmentType": "Public housing",
+      "longitude": "-80.21651269",
+      "latitude": "25.78106583",
+      "developmentName": "Haley Sofge Towers"
+    },
+    {
+      "id": "432",
+      "totalUnits": 154,
+      "developmentType": "Public housing",
+      "longitude": "-80.1904818",
+      "latitude": "25.7789684",
+      "developmentName": "Harry Cain Tower"
+    },
+    {
+      "id": "433",
+      "totalUnits": 30,
+      "developmentType": "Public housing",
+      "longitude": "-80.2024062",
+      "latitude": "25.79536328",
+      "developmentName": "Gwen Cherry 23"
+    },
+    {
+      "id": "434",
+      "totalUnits": 104,
+      "developmentType": "Public housing",
+      "longitude": "-80.21346331",
+      "latitude": "25.78392767",
+      "developmentName": "Helen M. Sawyer Plaza"
+    },
+    {
+      "id": "435",
+      "totalUnits": 26,
+      "developmentType": "Public housing",
+      "longitude": "-80.42065682",
+      "latitude": "25.51612902",
+      "developmentName": "Heritage Village II"
+    },
+    {
+      "id": "436",
+      "totalUnits": 56,
+      "developmentType": "Public housing",
+      "longitude": "-80.42071785",
+      "latitude": "25.51798392",
+      "developmentName": "Heritage Village I"
+    },
+    {
+      "id": "437",
+      "totalUnits": 30,
+      "developmentType": "Public housing",
+      "longitude": "-80.46018804",
+      "latitude": "25.48271811",
+      "developmentName": "Homestead East"
+    },
+    {
+      "id": "438",
+      "totalUnits": 150,
+      "developmentType": "Public housing",
+      "longitude": "-80.49636013",
+      "latitude": "25.46597661",
+      "developmentName": "Homestead Gardens"
+    },
+    {
+      "id": "439",
+      "totalUnits": 45,
+      "developmentType": "Public housing",
+      "longitude": "-80.20440066",
+      "latitude": "25.80836588",
+      "developmentName": "In Cities-Wynwood"
+    },
+    {
+      "id": "440",
+      "totalUnits": 200,
+      "developmentType": "Public housing",
+      "longitude": "-80.20374524",
+      "latitude": "25.77861747",
+      "developmentName": "Jack Orr Plaza"
+    },
+    {
+      "id": "441",
+      "totalUnits": 288,
+      "developmentType": "Public housing",
+      "longitude": "-80.20308794",
+      "latitude": "25.76605203",
+      "developmentName": "Joe Moretti Apartments"
+    },
+    {
+      "id": "442",
+      "totalUnits": 66,
+      "developmentType": "Public housing",
+      "longitude": "-80.23713041",
+      "latitude": "25.83220776",
+      "developmentName": "Jollivette"
+    },
+    {
+      "id": "443",
+      "totalUnits": 55,
+      "developmentType": "Public housing",
+      "longitude": "-80.22280459",
+      "latitude": "25.77148301",
+      "developmentName": "Jose Marti Plaza"
+    },
+    {
+      "id": "444",
+      "totalUnits": 38,
+      "developmentType": "Public housing",
+      "longitude": "-80.19708998",
+      "latitude": "25.85114872",
+      "developmentName": "Kline Nun"
+    },
+    {
+      "id": "445",
+      "totalUnits": 100,
+      "developmentType": "Public housing",
+      "longitude": "-80.19347256",
+      "latitude": "25.83853559",
+      "developmentName": "Lemon City"
+    },
+    {
+      "id": "446",
+      "totalUnits": 753,
+      "developmentType": "Public housing",
+      "longitude": "-80.22207948",
+      "latitude": "25.83328677",
+      "developmentName": "Liberty Square"
+    },
+    {
+      "id": "447",
+      "totalUnits": 47,
+      "developmentType": "Public housing",
+      "longitude": "-80.23743506",
+      "latitude": "25.81786164",
+      "developmentName": "Lincoln Gardens"
+    },
+    {
+      "id": "448",
+      "totalUnits": 28,
+      "developmentType": "Public housing",
+      "longitude": "-80.23368588",
+      "latitude": "25.79814347",
+      "developmentName": "Gwen Cherry 15"
+    },
+    {
+      "id": "449",
+      "totalUnits": 28,
+      "developmentType": "Public housing",
+      "longitude": "-80.21555239",
+      "latitude": "25.77254729",
+      "developmentName": "Little Havana Homes"
+    },
+    {
+      "id": "450",
+      "totalUnits": 108,
+      "developmentType": "Public housing",
+      "longitude": "-80.20671478",
+      "latitude": "25.85154827",
+      "developmentName": "Little River Terrace"
+    },
+    {
+      "id": "451",
+      "totalUnits": 86,
+      "developmentType": "Public housing",
+      "longitude": "-80.19797492",
+      "latitude": "25.85059464",
+      "developmentName": "Little River Plaza"
+    },
+    {
+      "id": "452",
+      "totalUnits": 6,
+      "developmentType": "Public housing",
+      "longitude": "-80.48329799",
+      "latitude": "25.44265458",
+      "developmentName": "Homestead Village"
+    },
+    {
+      "id": "453",
+      "totalUnits": 32,
+      "developmentType": "Public housing",
+      "longitude": "-80.22258239",
+      "latitude": "25.82223242",
+      "developmentName": "Manor Park"
+    },
+    {
+      "id": "454",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.21640578",
+      "latitude": "25.78024567",
+      "developmentName": "Martin Fine Villas"
+    },
+    {
+      "id": "455",
+      "totalUnits": 18,
+      "developmentType": "Public housing",
+      "longitude": "-80.19896242",
+      "latitude": "25.76483731",
+      "developmentName": "Medvin Apartments"
+    },
+    {
+      "id": "456",
+      "totalUnits": 38,
+      "developmentType": "Public housing",
+      "longitude": "-80.22528887",
+      "latitude": "25.84409878",
+      "developmentName": "Model Cities"
+    },
+    {
+      "id": "457",
+      "totalUnits": 120,
+      "developmentType": "Public housing",
+      "longitude": "-80.43924521",
+      "latitude": "25.50298583",
+      "developmentName": "Modello"
+    },
+    {
+      "id": "458",
+      "totalUnits": 64,
+      "developmentType": "Public housing",
+      "longitude": "-80.41049379",
+      "latitude": "25.51810477",
+      "developmentName": "Moody Village"
+    },
+    {
+      "id": "459",
+      "totalUnits": 116,
+      "developmentType": "Public housing",
+      "longitude": "-80.41764142",
+      "latitude": "25.52357375",
+      "developmentName": "Naranja"
+    },
+    {
+      "id": "460",
+      "totalUnits": 60,
+      "developmentType": "Public housing",
+      "longitude": "-80.19570004",
+      "latitude": "25.84109152",
+      "developmentName": "Newberg"
+    },
+    {
+      "id": "461",
+      "totalUnits": 82,
+      "developmentType": "Public housing",
+      "longitude": "-80.1926326",
+      "latitude": "25.84150374",
+      "developmentName": "New Haven Gardens Site 05"
+    },
+    {
+      "id": "462",
+      "totalUnits": 12,
+      "developmentType": "Public housing",
+      "longitude": "-80.21075057",
+      "latitude": "25.82639587",
+      "developmentName": "Orchard Villa Homes"
+    },
+    {
+      "id": "463",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.2386584",
+      "latitude": "25.89896169",
+      "developmentName": "Opa Locka Elderly"
+    },
+    {
+      "id": "464",
+      "totalUnits": 34,
+      "developmentType": "Public housing",
+      "longitude": "-80.41049065",
+      "latitude": "25.5181065",
+      "developmentName": "Moody Gardens"
+    },
+    {
+      "id": "465",
+      "totalUnits": 88,
+      "developmentType": "Public housing",
+      "longitude": "-80.21304762",
+      "latitude": "25.86166429",
+      "developmentName": "Palm Court"
+    },
+    {
+      "id": "466",
+      "totalUnits": 40,
+      "developmentType": "Public housing",
+      "longitude": "-80.29097376",
+      "latitude": "25.92607978",
+      "developmentName": "Palmetto Gardens"
+    },
+    {
+      "id": "467",
+      "totalUnits": 103,
+      "developmentType": "Public housing",
+      "longitude": "-80.21324302",
+      "latitude": "25.86165557",
+      "developmentName": "Palm Tower"
+    },
+    {
+      "id": "468",
+      "totalUnits": 158,
+      "developmentType": "Public housing",
+      "longitude": "-80.35573576",
+      "latitude": "25.60923523",
+      "developmentName": "Perrine Gardens"
+    },
+    {
+      "id": "469",
+      "totalUnits": 56,
+      "developmentType": "Public housing",
+      "longitude": "-80.20039269",
+      "latitude": "25.77689365",
+      "developmentName": "Parkside I & II"
+    },
+    {
+      "id": "470",
+      "totalUnits": 20,
+      "developmentType": "Public housing",
+      "longitude": "-80.35445632",
+      "latitude": "25.60350342",
+      "developmentName": "Perrine Villas"
+    },
+    {
+      "id": "471",
+      "totalUnits": 102,
+      "developmentType": "Public housing",
+      "longitude": "-80.19288752",
+      "latitude": "25.84387197",
+      "developmentName": "Peters Plaza"
+    },
+    {
+      "id": "472",
+      "totalUnits": 40,
+      "developmentType": "Public housing",
+      "longitude": "-80.19925149",
+      "latitude": "25.79172782",
+      "developmentName": "Phyllis Wheatley"
+    },
+    {
+      "id": "473",
+      "totalUnits": 130,
+      "developmentType": "Public housing",
+      "longitude": "-80.39621999",
+      "latitude": "25.51453446",
+      "developmentName": "Pine Island I & II"
+    },
+    {
+      "id": "474",
+      "totalUnits": 100,
+      "developmentType": "Public housing",
+      "longitude": "-80.20050947",
+      "latitude": "25.79715038",
+      "developmentName": "Rainbow Village"
+    },
+    {
+      "id": "475",
+      "totalUnits": 13,
+      "developmentType": "Public housing",
+      "longitude": "-80.21141033",
+      "latitude": "25.80177895",
+      "developmentName": "Santa Clara Homes"
+    },
+    {
+      "id": "476",
+      "totalUnits": 315,
+      "developmentType": "Public housing",
+      "longitude": "-80.21881428",
+      "latitude": "25.78015778",
+      "developmentName": "Robert King High Towers"
+    },
+    {
+      "id": "477",
+      "totalUnits": 12,
+      "developmentType": "Public housing",
+      "longitude": "-80.24050906",
+      "latitude": "25.83036533",
+      "developmentName": "Scattered Sites - A"
+    },
+    {
+      "id": "478",
+      "totalUnits": 32,
+      "developmentType": "Public housing",
+      "longitude": "-80.36134909",
+      "latitude": "25.61337115",
+      "developmentName": "Richmond Homes"
+    },
+    {
+      "id": "479",
+      "totalUnits": 40,
+      "developmentType": "Public housing",
+      "longitude": "-80.22792691",
+      "latitude": "25.80300426",
+      "developmentName": "Scattered Site 11- D"
+    },
+    {
+      "id": "480",
+      "totalUnits": 182,
+      "developmentType": "Public housing",
+      "longitude": "-80.24285015",
+      "latitude": "25.76377155",
+      "developmentName": "Smathers Plaza"
+    },
+    {
+      "id": "481",
+      "totalUnits": 58,
+      "developmentType": "Public housing",
+      "longitude": "-80.29070592",
+      "latitude": "25.70873049",
+      "developmentName": "South Miami"
+    },
+    {
+      "id": "482",
+      "totalUnits": 16,
+      "developmentType": "Public housing",
+      "longitude": "-80.22985808",
+      "latitude": "25.80567294",
+      "developmentName": "Scattered Site 9 - D"
+    },
+    {
+      "id": "483",
+      "totalUnits": 106,
+      "developmentType": "Public housing",
+      "longitude": "-80.37260055",
+      "latitude": "25.58844313",
+      "developmentName": "Southridge I & II"
+    },
+    {
+      "id": "484",
+      "totalUnits": 124,
+      "developmentType": "Public housing",
+      "longitude": "-80.25270791",
+      "latitude": "25.73201167",
+      "developmentName": "Stirrup Plaza"
+    },
+    {
+      "id": "485",
+      "totalUnits": 97,
+      "developmentType": "Public housing",
+      "longitude": "-80.29355002",
+      "latitude": "25.70867157",
+      "developmentName": "South Miami Plaza"
+    },
+    {
+      "id": "486",
+      "totalUnits": 391,
+      "developmentType": "Public housing",
+      "longitude": "-80.22573698",
+      "latitude": "25.80327524",
+      "developmentName": "Three Rounds Towers"
+    },
+    {
+      "id": "487",
+      "totalUnits": 76,
+      "developmentType": "Public housing",
+      "longitude": "-80.2160315",
+      "latitude": "25.8616695",
+      "developmentName": "Twin Lakes"
+    },
+    {
+      "id": "488",
+      "totalUnits": 38,
+      "developmentType": "Public housing",
+      "longitude": "-80.22665401",
+      "latitude": "25.77799603",
+      "developmentName": "Town Park"
+    },
+    {
+      "id": "489",
+      "totalUnits": 199,
+      "developmentType": "Public housing",
+      "longitude": "-80.23272589",
+      "latitude": "25.82411997",
+      "developmentName": "Ward Tower I"
+    },
+    {
+      "id": "490",
+      "totalUnits": 52,
+      "developmentType": "Public housing",
+      "longitude": "-80.26239019",
+      "latitude": "25.92058764",
+      "developmentName": "Venetian Gardens"
+    },
+    {
+      "id": "491",
+      "totalUnits": 148,
+      "developmentType": "Public housing",
+      "longitude": "-80.20550092",
+      "latitude": "25.84340375",
+      "developmentName": "Victory Homes"
+    },
+    {
+      "id": "492",
+      "totalUnits": 30,
+      "developmentType": "Public housing",
+      "longitude": "-80.45048142",
+      "latitude": "25.49783008",
+      "developmentName": "Wayside"
+    },
+    {
+      "id": "493",
+      "totalUnits": 100,
+      "developmentType": "Public housing",
+      "longitude": "-80.23463202",
+      "latitude": "25.82336104",
+      "developmentName": "Ward Tower II"
+    },
+    {
+      "id": "494",
+      "totalUnits": 50,
+      "developmentType": "Public housing",
+      "longitude": "-80.19726877",
+      "latitude": "25.80214502",
+      "developmentName": "Wynwood Homes - C"
+    },
+    {
+      "id": "495",
+      "totalUnits": 72,
+      "developmentType": "Public housing",
+      "longitude": "-80.20128971",
+      "latitude": "25.80471285",
+      "developmentName": "Wynwood Elderly"
+    },
+    {
+      "id": "496",
+      "totalUnits": 74,
+      "developmentType": "Public housing",
+      "longitude": "-80.4833942",
+      "latitude": "25.46564432",
+      "developmentName": "West Homestead Gardens"
+    },
+    {
+      "id": "497",
+      "totalUnits": 26,
+      "developmentType": "Public housing",
+      "longitude": "-80.48541394",
+      "latitude": "25.45428122",
+      "developmentName": "Florida City Family"
+    },
+    {
+      "id": "498",
+      "totalUnits": 200,
+      "developmentType": "Public housing",
+      "longitude": "-80.138930",
+      "latitude": "25.770404",
+      "developmentName": "Rebecca Towers"
+    },
+    {
+      "id": "1",
+      "totalUnits": 65,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.247007",
+      "latitude": "25.896725",
+      "developmentName": "135th Street Apartments"
+    },
+    {
+      "id": "2",
+      "totalUnits": 175,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.261063",
+      "latitude": "25.941634",
+      "developmentName": "183rd Street Apartments"
+    },
+    {
+      "id": "3",
+      "totalUnits": 156,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.260826",
+      "latitude": "25.943202",
+      "developmentName": "187th Street Apts"
+    },
+    {
+      "id": "4",
+      "totalUnits": 175,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235064",
+      "latitude": "25.900552",
+      "developmentName": "22nd Avenue Apartments"
+    },
+    {
+      "id": "5",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.191597",
+      "latitude": "25.904407",
+      "developmentName": "Ahepa 421 Apts"
+    },
+    {
+      "id": "6",
+      "totalUnits": 240,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.224433",
+      "latitude": "25.882784",
+      "developmentName": "Alhambra Cove Apartments"
+    },
+    {
+      "id": "7",
+      "totalUnits": 12,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23546606",
+      "latitude": "25.808247",
+      "developmentName": "Allapattah Business Development Authority, Inc. (ABDA) Rental Apartments"
+    },
+    {
+      "id": "8",
+      "totalUnits": 64,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235966",
+      "latitude": "25.78647",
+      "developmentName": "Allapattah Community Housing"
+    },
+    {
+      "id": "9",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.236031",
+      "latitude": "25.78651",
+      "developmentName": "Allapattah Community Housing II, Inc."
+    },
+    {
+      "id": "10",
+      "totalUnits": 128,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.214625",
+      "latitude": "25.808658",
+      "developmentName": "Allapattah Garden"
+    },
+    {
+      "id": "11",
+      "totalUnits": 39,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.131821",
+      "latitude": "25.796762",
+      "developmentName": "Allen, The"
+    },
+    {
+      "id": "12",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.494414",
+      "latitude": "25.450644",
+      "developmentName": "Amarilys Pond Apartments"
+    },
+    {
+      "id": "13",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21771",
+      "latitude": "25.79882",
+      "developmentName": "Amber Garden"
+    },
+    {
+      "id": "14",
+      "totalUnits": 89,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.2025",
+      "latitude": "25.765611",
+      "developmentName": "Amistad"
+    },
+    {
+      "id": "15",
+      "totalUnits": 22,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235579",
+      "latitude": "25.831048",
+      "developmentName": "Anchorage"
+    },
+    {
+      "id": "16",
+      "totalUnits": 20,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.186715",
+      "latitude": "25.849835",
+      "developmentName": "Anne Marie Towers"
+    },
+    {
+      "id": "17",
+      "totalUnits": 54,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.135355",
+      "latitude": "25.777353",
+      "developmentName": "Ann-ell"
+    },
+    {
+      "id": "18",
+      "totalUnits": 114,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24508",
+      "latitude": "25.89501",
+      "developmentName": "Archbishop Mccarthy Residence"
+    },
+    {
+      "id": "19",
+      "totalUnits": 65,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.199327",
+      "latitude": "25.783865",
+      "developmentName": "Arena Gardens"
+    },
+    {
+      "id": "20",
+      "totalUnits": 216,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.247107",
+      "latitude": "25.893228",
+      "developmentName": "Aswan Village"
+    },
+    {
+      "id": "21",
+      "totalUnits": 48,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20680367",
+      "latitude": "25.781652",
+      "developmentName": "Atrium at Spring Garden"
+    },
+    {
+      "id": "22",
+      "totalUnits": 14,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.220381",
+      "latitude": "25.787269",
+      "developmentName": "Barbara Court Apartments"
+    },
+    {
+      "id": "23",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.13148274",
+      "latitude": "25.795558",
+      "developmentName": "Barclay, The"
+    },
+    {
+      "id": "24",
+      "totalUnits": 204,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.167542",
+      "latitude": "25.885968",
+      "developmentName": "Baywinds"
+    },
+    {
+      "id": "25",
+      "totalUnits": 104,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373044",
+      "latitude": "25.570529",
+      "developmentName": "Bcc Apartments"
+    },
+    {
+      "id": "26",
+      "totalUnits": 90,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.196639",
+      "latitude": "25.783866",
+      "developmentName": "Beacon"
+    },
+    {
+      "id": "27",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.224304",
+      "latitude": "25.82313",
+      "developmentName": "Biscayne Court"
+    },
+    {
+      "id": "28",
+      "totalUnits": 114,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.443473",
+      "latitude": "25.499802",
+      "developmentName": "Biscayne Palm Club"
+    },
+    {
+      "id": "29",
+      "totalUnits": 31,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.438425",
+      "latitude": "25.500819",
+      "developmentName": "Biscayne Senior Housing"
+    },
+    {
+      "id": "30",
+      "totalUnits": 463,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.195014",
+      "latitude": "25.783274",
+      "developmentName": "Biscayne View"
+    },
+    {
+      "id": "31",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.287054",
+      "latitude": "25.7792",
+      "developmentName": "Blue Lagoon Apartments"
+    },
+    {
+      "id": "32",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.199526",
+      "latitude": "25.823158",
+      "developmentName": "Bonita Cove"
+    },
+    {
+      "id": "33",
+      "totalUnits": 164,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.467961",
+      "latitude": "25.446854",
+      "developmentName": "Bonita Pointe Apartments"
+    },
+    {
+      "id": "34",
+      "totalUnits": 58,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.211085",
+      "latitude": "25.769101",
+      "developmentName": "Borinquen Apartments"
+    },
+    {
+      "id": "35",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.195778",
+      "latitude": "25.7645",
+      "developmentName": "Brickell View Terrace"
+    },
+    {
+      "id": "36",
+      "totalUnits": 160,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203737",
+      "latitude": "25.773457",
+      "developmentName": "Brisas Del Mar"
+    },
+    {
+      "id": "37",
+      "totalUnits": 96,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24078001",
+      "latitude": "25.822102",
+      "developmentName": "Everette Stewart Sr. Village/Brownsville Transit Village I"
+    },
+    {
+      "id": "38",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.241676",
+      "latitude": "25.821987",
+      "developmentName": "Brownsville Transit Village II"
+    },
+    {
+      "id": "39",
+      "totalUnits": 103,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.241979",
+      "latitude": "25.822012",
+      "developmentName": "Brownsville Transit Village III"
+    },
+    {
+      "id": "40",
+      "totalUnits": 102,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.242",
+      "latitude": "25.822",
+      "developmentName": "Brownsville Transit Village Iv"
+    },
+    {
+      "id": "41",
+      "totalUnits": 65,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24078001",
+      "latitude": "25.822102",
+      "developmentName": "Brownsville Transit Village V"
+    },
+    {
+      "id": "42",
+      "totalUnits": 21,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.202969",
+      "latitude": "25.768319",
+      "developmentName": "Buena Vista Apartments"
+    },
+    {
+      "id": "43",
+      "totalUnits": 20,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.191435",
+      "latitude": "25.899837",
+      "developmentName": "Buena Vista Villas"
+    },
+    {
+      "id": "44",
+      "totalUnits": 332,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.370231",
+      "latitude": "25.582283",
+      "developmentName": "Cabana Club"
+    },
+    {
+      "id": "45",
+      "totalUnits": 144,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.321801",
+      "latitude": "25.571401",
+      "developmentName": "Calusa Cove"
+    },
+    {
+      "id": "46",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20773262",
+      "latitude": "25.772464",
+      "developmentName": "Camacho Building"
+    },
+    {
+      "id": "47",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.218253",
+      "latitude": "25.773672",
+      "developmentName": "Camacol Tower"
+    },
+    {
+      "id": "48",
+      "totalUnits": 148,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.500538",
+      "latitude": "25.451858",
+      "developmentName": "Cameron Creek"
+    },
+    {
+      "id": "49",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20689665",
+      "latitude": "25.790193",
+      "developmentName": "Camillus New Treatment Center"
+    },
+    {
+      "id": "50",
+      "totalUnits": 201,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.461471",
+      "latitude": "25.478312",
+      "developmentName": "Campbell Arms"
+    },
+    {
+      "id": "51",
+      "totalUnits": 136,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.365951",
+      "latitude": "25.604906",
+      "developmentName": "Captiva Club"
+    },
+    {
+      "id": "52",
+      "totalUnits": 102,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.387429",
+      "latitude": "25.58038",
+      "developmentName": "Caribbean West"
+    },
+    {
+      "id": "53",
+      "totalUnits": 152,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.234527",
+      "latitude": "25.964946",
+      "developmentName": "Carol City Gardens"
+    },
+    {
+      "id": "54",
+      "totalUnits": 71,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.200971",
+      "latitude": "25.793174",
+      "developmentName": "Carrie P. Meek Manor"
+    },
+    {
+      "id": "55",
+      "totalUnits": 236,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.215857",
+      "latitude": "25.742884",
+      "developmentName": "Carroll Manor"
+    },
+    {
+      "id": "56",
+      "totalUnits": 28,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.504639",
+      "latitude": "25.414054",
+      "developmentName": "Casa Cesar Chavez"
+    },
+    {
+      "id": "57",
+      "totalUnits": 210,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.374009",
+      "latitude": "25.582798",
+      "developmentName": "Casa Devon"
+    },
+    {
+      "id": "58",
+      "totalUnits": 14,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201227",
+      "latitude": "25.770749",
+      "developmentName": "Casa Isabel"
+    },
+    {
+      "id": "59",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.425393",
+      "latitude": "25.523984",
+      "developmentName": "Casa Matias"
+    },
+    {
+      "id": "60",
+      "totalUnits": 288,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.232742",
+      "latitude": "25.963503",
+      "developmentName": "Cedar Grove"
+    },
+    {
+      "id": "61",
+      "totalUnits": 588,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.16198",
+      "latitude": "25.911852",
+      "developmentName": "Center Court"
+    },
+    {
+      "id": "62",
+      "totalUnits": 35,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207295",
+      "latitude": "25.783646",
+      "developmentName": "Central City"
+    },
+    {
+      "id": "63",
+      "totalUnits": 147,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.459063",
+      "latitude": "25.474155",
+      "developmentName": "Cherry Village"
+    },
+    {
+      "id": "64",
+      "totalUnits": 18,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.140738",
+      "latitude": "25.852857",
+      "developmentName": "Cielo"
+    },
+    {
+      "id": "65",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "0",
+      "latitude": "0",
+      "developmentName": "Circle Creek"
+    },
+    {
+      "id": "66",
+      "totalUnits": 103,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.198111",
+      "latitude": "25.762194",
+      "developmentName": "City Crossings"
+    },
+    {
+      "id": "67",
+      "totalUnits": 98,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.196694",
+      "latitude": "25.767194",
+      "developmentName": "City Heights"
+    },
+    {
+      "id": "68",
+      "totalUnits": 66,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.18779",
+      "latitude": "25.850885",
+      "developmentName": "City View/Little River Bend"
+    },
+    {
+      "id": "69",
+      "totalUnits": 196,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22077",
+      "latitude": "25.792434",
+      "developmentName": "Civic Towers"
+    },
+    {
+      "id": "70",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.253093",
+      "latitude": "25.730975",
+      "developmentName": "Coconut Grove"
+    },
+    {
+      "id": "71",
+      "totalUnits": 210,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.372154",
+      "latitude": "25.669243",
+      "developmentName": "College Park Towers"
+    },
+    {
+      "id": "72",
+      "totalUnits": 117,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.228056",
+      "latitude": "25.809917",
+      "developmentName": "Collins Park"
+    },
+    {
+      "id": "73",
+      "totalUnits": 9,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.192383",
+      "latitude": "25.903061",
+      "developmentName": "Colonial Place Apartments"
+    },
+    {
+      "id": "74",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.455866",
+      "latitude": "25.468716",
+      "developmentName": "Colony Lakes"
+    },
+    {
+      "id": "75",
+      "totalUnits": 129,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.190063",
+      "latitude": "25.775556",
+      "developmentName": "Congress Building"
+    },
+    {
+      "id": "76",
+      "totalUnits": 32,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20873451",
+      "latitude": "25.82722",
+      "developmentName": "COPI"
+    },
+    {
+      "id": "77",
+      "totalUnits": 40,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.359932",
+      "latitude": "25.564577",
+      "developmentName": "Coral Bay Plaza"
+    },
+    {
+      "id": "78",
+      "totalUnits": 155,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.321718",
+      "latitude": "25.571315",
+      "developmentName": "Coral Bay Terrace"
+    },
+    {
+      "id": "79",
+      "totalUnits": 92,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.492119",
+      "latitude": "25.466477",
+      "developmentName": "Coral Gardens  Apts"
+    },
+    {
+      "id": "80",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21271",
+      "latitude": "25.825017",
+      "developmentName": "Coral Place"
+    },
+    {
+      "id": "81",
+      "totalUnits": 126,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.233107",
+      "latitude": "25.845159",
+      "developmentName": "Corinthian Apartments"
+    },
+    {
+      "id": "82",
+      "totalUnits": 252,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.131793",
+      "latitude": "25.781476",
+      "developmentName": "Council Towers"
+    },
+    {
+      "id": "83",
+      "totalUnits": 216,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.316905",
+      "latitude": "25.935364",
+      "developmentName": "Country Club Villas"
+    },
+    {
+      "id": "84",
+      "totalUnits": 214,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.315466",
+      "latitude": "25.935413",
+      "developmentName": "Country Club Villas II"
+    },
+    {
+      "id": "85",
+      "totalUnits": 137,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.240396",
+      "latitude": "25.850884",
+      "developmentName": "Covenant Palms"
+    },
+    {
+      "id": "86",
+      "totalUnits": 320,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24652",
+      "latitude": "25.944801",
+      "developmentName": "Crossings At University"
+    },
+    {
+      "id": "87",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.358069",
+      "latitude": "25.56968",
+      "developmentName": "Cutler Bay Apartments"
+    },
+    {
+      "id": "88",
+      "totalUnits": 224,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373933",
+      "latitude": "25.584323",
+      "developmentName": "Cutler Glen & Cutler Meadows"
+    },
+    {
+      "id": "89",
+      "totalUnits": 262,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.359444",
+      "latitude": "25.569711",
+      "developmentName": "Cutler Hammock"
+    },
+    {
+      "id": "90",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.367552",
+      "latitude": "25.567283",
+      "developmentName": "Cutler Manor"
+    },
+    {
+      "id": "91",
+      "totalUnits": 200,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.36118",
+      "latitude": "25.566069",
+      "developmentName": "Cutler Riverside"
+    },
+    {
+      "id": "92",
+      "totalUnits": 216,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.360728",
+      "latitude": "25.567061",
+      "developmentName": "Cutler Vista"
+    },
+    {
+      "id": "93",
+      "totalUnits": 151,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.224306",
+      "latitude": "25.803861",
+      "developmentName": "Dante Fascell"
+    },
+    {
+      "id": "94",
+      "totalUnits": 7,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.478546",
+      "latitude": "25.462922",
+      "developmentName": "Darc Group Home"
+    },
+    {
+      "id": "95",
+      "totalUnits": 77,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.45998",
+      "latitude": "25.469031",
+      "developmentName": "Deedco Gardens"
+    },
+    {
+      "id": "96",
+      "totalUnits": 32,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.267652",
+      "latitude": "25.938579",
+      "developmentName": "Del Prado Gardens"
+    },
+    {
+      "id": "97",
+      "totalUnits": 256,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.372391",
+      "latitude": "25.819788",
+      "developmentName": "Doral Terrace"
+    },
+    {
+      "id": "98",
+      "totalUnits": 176,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.263914",
+      "latitude": "25.939592",
+      "developmentName": "Douglas Pointe"
+    },
+    {
+      "id": "99",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.220631",
+      "latitude": "25.824251",
+      "developmentName": "Dr. Barbara Carey-Shuler Manor"
+    },
+    {
+      "id": "100",
+      "totalUnits": 321,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.246674",
+      "latitude": "25.946289",
+      "developmentName": "Eagle's Landing"
+    },
+    {
+      "id": "101",
+      "totalUnits": 34,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22756355",
+      "latitude": "25.761718",
+      "developmentName": "Edificio Pineiro"
+    },
+    {
+      "id": "102",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20703364",
+      "latitude": "25.828718",
+      "developmentName": "Edison Gardens Apartments Hurricane Hardening"
+    },
+    {
+      "id": "103",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20734",
+      "latitude": "25.827336",
+      "developmentName": "Edison Terraces I"
+    },
+    {
+      "id": "104",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207346",
+      "latitude": "25.827537",
+      "developmentName": "Edison Terraces II"
+    },
+    {
+      "id": "105",
+      "totalUnits": 121,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20827515",
+      "latitude": "25.828852",
+      "developmentName": "Edison Tower"
+    },
+    {
+      "id": "106",
+      "totalUnits": 96,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.232403",
+      "latitude": "25.810782",
+      "developmentName": "Emerald Bay Apartments"
+    },
+    {
+      "id": "107",
+      "totalUnits": 141,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235062",
+      "latitude": "25.965264",
+      "developmentName": "Emerald Dunes"
+    },
+    {
+      "id": "108",
+      "totalUnits": 124,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201697",
+      "latitude": "25.841423",
+      "developmentName": "Emerald, The"
+    },
+    {
+      "id": "110",
+      "totalUnits": 382,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.502172",
+      "latitude": "25.414764",
+      "developmentName": "Everglades Farm Village"
+    },
+    {
+      "id": "111",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.502746",
+      "latitude": "25.413828",
+      "developmentName": "Everglades Farmworker Village"
+    },
+    {
+      "id": "112",
+      "totalUnits": 15,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.503866",
+      "latitude": "25.414518",
+      "developmentName": "Everglades Village Rrh"
+    },
+    {
+      "id": "113",
+      "totalUnits": 111,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373395",
+      "latitude": "25.666652",
+      "developmentName": "Federation Gardens I"
+    },
+    {
+      "id": "114",
+      "totalUnits": 50,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373294",
+      "latitude": "25.666494",
+      "developmentName": "Federation Gardens II"
+    },
+    {
+      "id": "115",
+      "totalUnits": 114,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.141709",
+      "latitude": "25.777859",
+      "developmentName": "Federation Towers"
+    },
+    {
+      "id": "116",
+      "totalUnits": 32,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.209435",
+      "latitude": "25.769148",
+      "developmentName": "Fernando Apartments"
+    },
+    {
+      "id": "117",
+      "totalUnits": 18,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.133692",
+      "latitude": "25.780139",
+      "developmentName": "Fernwood Apartments"
+    },
+    {
+      "id": "118",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.49196995",
+      "latitude": "25.453533",
+      "developmentName": "Florida City Village Phase VII"
+    },
+    {
+      "id": "119",
+      "totalUnits": 180,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.195596",
+      "latitude": "25.953194",
+      "developmentName": "Florida Club Apartments"
+    },
+    {
+      "id": "120",
+      "totalUnits": 210,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.123607",
+      "latitude": "25.811426",
+      "developmentName": "Four Freedoms House"
+    },
+    {
+      "id": "121",
+      "totalUnits": 92,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.222323",
+      "latitude": "25.809844",
+      "developmentName": "Friendship Tower"
+    },
+    {
+      "id": "122",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21762502",
+      "latitude": "25.829671",
+      "developmentName": "Gaita Gardens"
+    },
+    {
+      "id": "123",
+      "totalUnits": 228,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373035",
+      "latitude": "25.568363",
+      "developmentName": "Garden Walk"
+    },
+    {
+      "id": "124",
+      "totalUnits": 328,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.253069",
+      "latitude": "25.894109",
+      "developmentName": "Gardens Apartments, The"
+    },
+    {
+      "id": "125",
+      "totalUnits": 72,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.253214",
+      "latitude": "25.894875",
+      "developmentName": "Georgia Ayers"
+    },
+    {
+      "id": "126",
+      "totalUnits": 65,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.252897",
+      "latitude": "25.732246",
+      "developmentName": "Gibson Plaza"
+    },
+    {
+      "id": "127",
+      "totalUnits": 280,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.218271",
+      "latitude": "25.917364",
+      "developmentName": "Golden Lakes"
+    },
+    {
+      "id": "128",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.216342",
+      "latitude": "25.916976",
+      "developmentName": "Golden Pond Apartments"
+    },
+    {
+      "id": "129",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19601879",
+      "latitude": "25.953743",
+      "developmentName": "Golf View Apartments"
+    },
+    {
+      "id": "130",
+      "totalUnits": 194,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.312515",
+      "latitude": "25.93489",
+      "developmentName": "Golfside Villas"
+    },
+    {
+      "id": "131",
+      "totalUnits": 48,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.373857",
+      "latitude": "25.562419",
+      "developmentName": "Goulds Apartments"
+    },
+    {
+      "id": "132",
+      "totalUnits": 56,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.130771",
+      "latitude": "25.796391",
+      "developmentName": "Granite At Miami Beach"
+    },
+    {
+      "id": "133",
+      "totalUnits": 94,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.312616",
+      "latitude": "25.937954",
+      "developmentName": "Green Vista"
+    },
+    {
+      "id": "134",
+      "totalUnits": 151,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.227527",
+      "latitude": "25.804336",
+      "developmentName": "Hadley Gardens"
+    },
+    {
+      "id": "135",
+      "totalUnits": 144,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.360007",
+      "latitude": "25.565945",
+      "developmentName": "Hainlin Mills"
+    },
+    {
+      "id": "136",
+      "totalUnits": 312,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.218423",
+      "latitude": "25.967233",
+      "developmentName": "Hamlet At Walden Pond"
+    },
+    {
+      "id": "137",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.242447",
+      "latitude": "25.814244",
+      "developmentName": "Hampton Village"
+    },
+    {
+      "id": "138",
+      "totalUnits": 200,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.364824",
+      "latitude": "25.557542",
+      "developmentName": "Hardin Hammock Estates"
+    },
+    {
+      "id": "139",
+      "totalUnits": 92,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.122789",
+      "latitude": "25.870432",
+      "developmentName": "Harding Village - Miami Beach"
+    },
+    {
+      "id": "140",
+      "totalUnits": 56,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.159683",
+      "latitude": "25.931297",
+      "developmentName": "Harvard House"
+    },
+    {
+      "id": "141",
+      "totalUnits": 38,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.49197",
+      "latitude": "25.465343",
+      "developmentName": "Harvest Center"
+    },
+    {
+      "id": "142",
+      "totalUnits": 124,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.308521",
+      "latitude": "25.863364",
+      "developmentName": "Hialeah Residence"
+    },
+    {
+      "id": "143",
+      "totalUnits": 212,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.218854",
+      "latitude": "25.846366",
+      "developmentName": "Hibiscus Pointe"
+    },
+    {
+      "id": "144",
+      "totalUnits": 144,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.217514",
+      "latitude": "25.91738",
+      "developmentName": "Hidden Cove - Miami"
+    },
+    {
+      "id": "145",
+      "totalUnits": 222,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.414562",
+      "latitude": "25.515527",
+      "developmentName": "Hidden Grove"
+    },
+    {
+      "id": "146",
+      "totalUnits": 312,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.46627",
+      "latitude": "25.468857",
+      "developmentName": "Homestead Colony"
+    },
+    {
+      "id": "147",
+      "totalUnits": 28,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.473467",
+      "latitude": "25.479448",
+      "developmentName": "Homestead Plaza"
+    },
+    {
+      "id": "148",
+      "totalUnits": 227,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.452568",
+      "latitude": "25.492422",
+      "developmentName": "Housing Auth City Of Homestead"
+    },
+    {
+      "id": "149",
+      "totalUnits": 16,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.492501",
+      "latitude": "25.461772",
+      "developmentName": "Howard Park"
+    },
+    {
+      "id": "150",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203002",
+      "latitude": "25.774596",
+      "developmentName": "Hunter River Walk Apartments"
+    },
+    {
+      "id": "151",
+      "totalUnits": 56,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.385673",
+      "latitude": "25.57849",
+      "developmentName": "Inn Transition South"
+    },
+    {
+      "id": "152",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19978453",
+      "latitude": "25.785889",
+      "developmentName": "Island Living Apartments, Ltd."
+    },
+    {
+      "id": "153",
+      "totalUnits": 199,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.169337",
+      "latitude": "25.929844",
+      "developmentName": "Island Place"
+    },
+    {
+      "id": "154",
+      "totalUnits": 200,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203778",
+      "latitude": "25.778222",
+      "developmentName": "Jack Orr Plaza I"
+    },
+    {
+      "id": "155",
+      "totalUnits": 1,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.245721",
+      "latitude": "25.726593",
+      "developmentName": "Janoski Property"
+    },
+    {
+      "id": "156",
+      "totalUnits": 116,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.197806",
+      "latitude": "25.764833",
+      "developmentName": "Joe Moretti I"
+    },
+    {
+      "id": "157",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.26589493",
+      "latitude": "25.940214",
+      "developmentName": "JPM Centre /Townhouse Villas"
+    },
+    {
+      "id": "158",
+      "totalUnits": 98,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.492385",
+      "latitude": "25.445006",
+      "developmentName": "Jubilee Courtyards"
+    },
+    {
+      "id": "159",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.137155",
+      "latitude": "25.771552",
+      "developmentName": "Kanepeli Park"
+    },
+    {
+      "id": "160",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.442408",
+      "latitude": "25.500212",
+      "developmentName": "Keys I & II"
+    },
+    {
+      "id": "161",
+      "totalUnits": 48,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.441452",
+      "latitude": "25.500224",
+      "developmentName": "Keys III"
+    },
+    {
+      "id": "162",
+      "totalUnits": 300,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24267",
+      "latitude": "25.89073",
+      "developmentName": "Kings Terrace"
+    },
+    {
+      "id": "163",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.41660192",
+      "latitude": "25.518031",
+      "developmentName": "La Joya Apartments"
+    },
+    {
+      "id": "164",
+      "totalUnits": 90,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.212399",
+      "latitude": "25.772268",
+      "developmentName": "La Palma"
+    },
+    {
+      "id": "165",
+      "totalUnits": 90,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20832",
+      "latitude": "25.777692",
+      "developmentName": "Labre Place"
+    },
+    {
+      "id": "166",
+      "totalUnits": 136,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.194246",
+      "latitude": "25.846756",
+      "developmentName": "Lafayette Plaza"
+    },
+    {
+      "id": "167",
+      "totalUnits": 160,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.194281",
+      "latitude": "25.84692",
+      "developmentName": "Lafayette Square"
+    },
+    {
+      "id": "168",
+      "totalUnits": 400,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.218251",
+      "latitude": "25.971892",
+      "developmentName": "Lakes Edge At Walden"
+    },
+    {
+      "id": "169",
+      "totalUnits": 384,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.438136",
+      "latitude": "25.695116",
+      "developmentName": "Lakeside Towers Apartments"
+    },
+    {
+      "id": "170",
+      "totalUnits": 40,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.234357",
+      "latitude": "25.881177",
+      "developmentName": "Lakeview"
+    },
+    {
+      "id": "171",
+      "totalUnits": 101,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.472246",
+      "latitude": "25.481344",
+      "developmentName": "Landings"
+    },
+    {
+      "id": "172",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.237726",
+      "latitude": "25.780045",
+      "developmentName": "Las Palmas Plaza I"
+    },
+    {
+      "id": "173",
+      "totalUnits": 96,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.237674",
+      "latitude": "25.779733",
+      "developmentName": "Las Palmas Plaza II"
+    },
+    {
+      "id": "174",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21461177",
+      "latitude": "25.769387",
+      "developmentName": "Latin Q Tower"
+    },
+    {
+      "id": "175",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.438363",
+      "latitude": "25.499878",
+      "developmentName": "Leisure Villas"
+    },
+    {
+      "id": "176",
+      "totalUnits": 214,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.230487",
+      "latitude": "25.83196",
+      "developmentName": "Lincoln Fields Apartments"
+    },
+    {
+      "id": "177",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.191177",
+      "latitude": "25.833334",
+      "developmentName": "Little Haiti Gateway"
+    },
+    {
+      "id": "178",
+      "totalUnits": 75,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.223823",
+      "latitude": "25.768652",
+      "developmentName": "Little Havana"
+    },
+    {
+      "id": "179",
+      "totalUnits": 20,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.2385",
+      "latitude": "25.897674",
+      "developmentName": "Lock Towns Ind Lvg Apts."
+    },
+    {
+      "id": "180",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.132113",
+      "latitude": "25.77742",
+      "developmentName": "London Apartments"
+    },
+    {
+      "id": "181",
+      "totalUnits": 33,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.13235479",
+      "latitude": "25.777258",
+      "developmentName": "London Arms"
+    },
+    {
+      "id": "182",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.382385",
+      "latitude": "25.768603",
+      "developmentName": "Los Robles Apartments"
+    },
+    {
+      "id": "183",
+      "totalUnits": 179,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203834",
+      "latitude": "25.809874",
+      "developmentName": "Los Suenos"
+    },
+    {
+      "id": "184",
+      "totalUnits": 50,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.137267",
+      "latitude": "25.814775",
+      "developmentName": "Lowenstein Building"
+    },
+    {
+      "id": "185",
+      "totalUnits": 140,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.139886",
+      "latitude": "25.776346",
+      "developmentName": "Lulav Square"
+    },
+    {
+      "id": "186",
+      "totalUnits": 51,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20039",
+      "latitude": "25.775442",
+      "developmentName": "Lummus Park Manor"
+    },
+    {
+      "id": "187",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22309497",
+      "latitude": "25.831074",
+      "developmentName": "M & M Maison I"
+    },
+    {
+      "id": "188",
+      "totalUnits": 21,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.223955",
+      "latitude": "25.830472",
+      "developmentName": "M & M Maison II"
+    },
+    {
+      "id": "189",
+      "totalUnits": 17,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.134287",
+      "latitude": "25.772223",
+      "developmentName": "Madison"
+    },
+    {
+      "id": "190",
+      "totalUnits": 120,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203472",
+      "latitude": "25.779806",
+      "developmentName": "Madison View"
+    },
+    {
+      "id": "191",
+      "totalUnits": 150,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.423806",
+      "latitude": "25.524726",
+      "developmentName": "Magnolia Landing"
+    },
+    {
+      "id": "192",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23518498",
+      "latitude": "25.911604",
+      "developmentName": "Magnolia North 15037 Duval Apartments"
+    },
+    {
+      "id": "193",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23543986",
+      "latitude": "25.910827",
+      "developmentName": "Magnolia North 2145 Apartments"
+    },
+    {
+      "id": "194",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23536115",
+      "latitude": "25.911662",
+      "developmentName": "Magnolia North Apartments"
+    },
+    {
+      "id": "195",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23267215",
+      "latitude": "25.910633",
+      "developmentName": "Magnolia North Community Center"
+    },
+    {
+      "id": "196",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.41255087",
+      "latitude": "25.518037",
+      "developmentName": "Malibu Gardens Apartments/ a.k.a. Villages of Naranja"
+    },
+    {
+      "id": "197",
+      "totalUnits": 368,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.285605",
+      "latitude": "25.917241",
+      "developmentName": "Marbrisa Lake"
+    },
+    {
+      "id": "198",
+      "totalUnits": 56,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.221686",
+      "latitude": "25.786911",
+      "developmentName": "Mayras Court Apartments"
+    },
+    {
+      "id": "199",
+      "totalUnits": 119,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.320988",
+      "latitude": "25.871727",
+      "developmentName": "Meadowgreen Apartments"
+    },
+    {
+      "id": "200",
+      "totalUnits": 15,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.194209",
+      "latitude": "25.900164",
+      "developmentName": "Memorial Highway Apts"
+    },
+    {
+      "id": "201",
+      "totalUnits": 159,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.487277",
+      "latitude": "25.434457",
+      "developmentName": "Merritt Place Estates"
+    },
+    {
+      "id": "202",
+      "totalUnits": 66,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.507109",
+      "latitude": "25.414623",
+      "developmentName": "Metro Dade"
+    },
+    {
+      "id": "203",
+      "totalUnits": 91,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.292028",
+      "latitude": "25.704556",
+      "developmentName": "Metro South Senior"
+    },
+    {
+      "id": "205",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.125577",
+      "latitude": "25.938409",
+      "developmentName": "Miami Beach Marian Towers"
+    },
+    {
+      "id": "206",
+      "totalUnits": 45,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.236587",
+      "latitude": "25.940351",
+      "developmentName": "Miami Garden Apartments"
+    },
+    {
+      "id": "207",
+      "totalUnits": 211,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201954",
+      "latitude": "25.778036",
+      "developmentName": "Miami River Park"
+    },
+    {
+      "id": "208",
+      "totalUnits": 336,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.210697",
+      "latitude": "25.79943",
+      "developmentName": "Miami Stadium I"
+    },
+    {
+      "id": "209",
+      "totalUnits": 151,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235669",
+      "latitude": "25.823686",
+      "developmentName": "Mildred And Claude Pepper Towers"
+    },
+    {
+      "id": "210",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.480254",
+      "latitude": "25.463625",
+      "developmentName": "Milton Manor III"
+    },
+    {
+      "id": "211",
+      "totalUnits": 204,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.399185",
+      "latitude": "25.533267",
+      "developmentName": "Mirabella"
+    },
+    {
+      "id": "212",
+      "totalUnits": 336,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.45876",
+      "latitude": "25.466753",
+      "developmentName": "Monterey Pointe"
+    },
+    {
+      "id": "213",
+      "totalUnits": 90,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.41928",
+      "latitude": "25.522304",
+      "developmentName": "Naranja Villas"
+    },
+    {
+      "id": "214",
+      "totalUnits": 13,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.219955",
+      "latitude": "25.767734",
+      "developmentName": "Nathalie's Court Apartments"
+    },
+    {
+      "id": "215",
+      "totalUnits": 61,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19925219",
+      "latitude": "25.783676",
+      "developmentName": "New Arena Square 10"
+    },
+    {
+      "id": "216",
+      "totalUnits": 26,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19796781",
+      "latitude": "25.786077",
+      "developmentName": "New Arena Square 11"
+    },
+    {
+      "id": "217",
+      "totalUnits": 18,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19935821",
+      "latitude": "25.797889",
+      "developmentName": "New Arena Square 2"
+    },
+    {
+      "id": "218",
+      "totalUnits": 51,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19944105",
+      "latitude": "25.7961",
+      "developmentName": "New Arena Square 3"
+    },
+    {
+      "id": "219",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19954046",
+      "latitude": "25.796696",
+      "developmentName": "New Arena Square 4"
+    },
+    {
+      "id": "220",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19973928",
+      "latitude": "25.796978",
+      "developmentName": "New Arena Square 5"
+    },
+    {
+      "id": "221",
+      "totalUnits": 8,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20058426",
+      "latitude": "25.797839",
+      "developmentName": "New Arena Square 6"
+    },
+    {
+      "id": "222",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20036887",
+      "latitude": "25.796829",
+      "developmentName": "New Arena Square 7"
+    },
+    {
+      "id": "223",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20033573",
+      "latitude": "25.797558",
+      "developmentName": "New Arena Square 8"
+    },
+    {
+      "id": "224",
+      "totalUnits": 61,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19916043",
+      "latitude": "25.784532",
+      "developmentName": "New Arena Square 9"
+    },
+    {
+      "id": "225",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.199313",
+      "latitude": "25.783844",
+      "developmentName": "New Arena Square leasing office"
+    },
+    {
+      "id": "226",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22288845",
+      "latitude": "25.830485",
+      "developmentName": "New Green Villas"
+    },
+    {
+      "id": "227",
+      "totalUnits": 101,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207318",
+      "latitude": "25.83015",
+      "developmentName": "New Horizons Apartments"
+    },
+    {
+      "id": "228",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.257702",
+      "latitude": "25.846191",
+      "developmentName": "Northside Transit Village I"
+    },
+    {
+      "id": "229",
+      "totalUnits": 10,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.25804593",
+      "latitude": "25.846245",
+      "developmentName": "Northwest Dade A.r.t.s"
+    },
+    {
+      "id": "230",
+      "totalUnits": 64,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.199794",
+      "latitude": "25.828367",
+      "developmentName": "Notre Dame"
+    },
+    {
+      "id": "231",
+      "totalUnits": 288,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.275828",
+      "latitude": "25.676211",
+      "developmentName": "Old Cutler Village"
+    },
+    {
+      "id": "232",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.190497",
+      "latitude": "25.773862",
+      "developmentName": "Olympia Building"
+    },
+    {
+      "id": "233",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24111808",
+      "latitude": "25.897447",
+      "developmentName": "Opa Lakes Apartments"
+    },
+    {
+      "id": "234",
+      "totalUnits": 506,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235062",
+      "latitude": "25.90055",
+      "developmentName": "Opa Locka Portfolio"
+    },
+    {
+      "id": "235",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.488364",
+      "latitude": "25.456672",
+      "developmentName": "Orchid Grove"
+    },
+    {
+      "id": "236",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.202511",
+      "latitude": "25.778012",
+      "developmentName": "Orlando Apartments"
+    },
+    {
+      "id": "237",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.283018",
+      "latitude": "25.77898",
+      "developmentName": "Palermo Lakes Apartments"
+    },
+    {
+      "id": "238",
+      "totalUnits": 300,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.241672",
+      "latitude": "25.879357",
+      "developmentName": "Palm Lake"
+    },
+    {
+      "id": "239",
+      "totalUnits": 52,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.292189",
+      "latitude": "25.86944",
+      "developmentName": "Palm Springs Villas"
+    },
+    {
+      "id": "240",
+      "totalUnits": 91,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.485826",
+      "latitude": "25.44678",
+      "developmentName": "Palm Villas"
+    },
+    {
+      "id": "241",
+      "totalUnits": 121,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.367539",
+      "latitude": "25.75727",
+      "developmentName": "Palmer House"
+    },
+    {
+      "id": "242",
+      "totalUnits": 180,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.213422",
+      "latitude": "25.917355",
+      "developmentName": "Park City At Golden Lakes"
+    },
+    {
+      "id": "243",
+      "totalUnits": 8,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.49161",
+      "latitude": "25.457945",
+      "developmentName": "Park Green"
+    },
+    {
+      "id": "244",
+      "totalUnits": 82,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.441131",
+      "latitude": "25.689191",
+      "developmentName": "Park Lake"
+    },
+    {
+      "id": "245",
+      "totalUnits": 34,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.277575",
+      "latitude": "25.824203",
+      "developmentName": "Park Place - Hialeah"
+    },
+    {
+      "id": "246",
+      "totalUnits": 6,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22217574",
+      "latitude": "25.791948",
+      "developmentName": "Parkview Apartments II"
+    },
+    {
+      "id": "247",
+      "totalUnits": 60,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.222441",
+      "latitude": "25.831216",
+      "developmentName": "Parkview Gardens"
+    },
+    {
+      "id": "248",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.24347371",
+      "latitude": "25.944759",
+      "developmentName": "Pelican Cove Apartments"
+    },
+    {
+      "id": "249",
+      "totalUnits": 376,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.326074",
+      "latitude": "25.570289",
+      "developmentName": "Peninsula Housing"
+    },
+    {
+      "id": "250",
+      "totalUnits": 64,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.353079",
+      "latitude": "25.608816",
+      "developmentName": "Perrine Rainbow"
+    },
+    {
+      "id": "251",
+      "totalUnits": 7,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.22311765",
+      "latitude": "25.830342",
+      "developmentName": "Petera Plaza/CD Building"
+    },
+    {
+      "id": "252",
+      "totalUnits": 164,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.476139",
+      "latitude": "25.477799",
+      "developmentName": "Phoenix"
+    },
+    {
+      "id": "253",
+      "totalUnits": 20,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.339533",
+      "latitude": "25.734027",
+      "developmentName": "Phoenix Manor"
+    },
+    {
+      "id": "254",
+      "totalUnits": 272,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.328638",
+      "latitude": "25.592015",
+      "developmentName": "Pine Woods Villa"
+    },
+    {
+      "id": "255",
+      "totalUnits": 226,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.192494",
+      "latitude": "25.947502",
+      "developmentName": "Pinnacle Lakes"
+    },
+    {
+      "id": "256",
+      "totalUnits": 135,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20866",
+      "latitude": "25.847389",
+      "developmentName": "Pinnacle Park"
+    },
+    {
+      "id": "257",
+      "totalUnits": 137,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.188362",
+      "latitude": "25.827652",
+      "developmentName": "Pinnacle Place"
+    },
+    {
+      "id": "258",
+      "totalUnits": 132,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.255724",
+      "latitude": "25.808364",
+      "developmentName": "Pinnacle Plaza"
+    },
+    {
+      "id": "259",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19412",
+      "latitude": "25.851905",
+      "developmentName": "Pinnacle Square"
+    },
+    {
+      "id": "260",
+      "totalUnits": 186,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.190478",
+      "latitude": "25.799656",
+      "developmentName": "Pinnacle View"
+    },
+    {
+      "id": "261",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19795297",
+      "latitude": "25.782895",
+      "developmentName": "Plaza at the Lyric, The"
+    },
+    {
+      "id": "262",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.1998",
+      "latitude": "25.827178",
+      "developmentName": "Poinciana Grove"
+    },
+    {
+      "id": "263",
+      "totalUnits": 55,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.338699",
+      "latitude": "25.761542",
+      "developmentName": "Postmaster"
+    },
+    {
+      "id": "264",
+      "totalUnits": 91,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.492375",
+      "latitude": "25.444979",
+      "developmentName": "Princeton Manor"
+    },
+    {
+      "id": "265",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.317733",
+      "latitude": "25.860777",
+      "developmentName": "Puerta Del Sol"
+    },
+    {
+      "id": "266",
+      "totalUnits": 199,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.215969",
+      "latitude": "25.774952",
+      "developmentName": "Rayos Del Sol"
+    },
+    {
+      "id": "267",
+      "totalUnits": 200,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.138947",
+      "latitude": "25.770706",
+      "developmentName": "Rebecca Towers North"
+    },
+    {
+      "id": "268",
+      "totalUnits": 66,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.492359",
+      "latitude": "25.455763",
+      "developmentName": "Redland Arms"
+    },
+    {
+      "id": "269",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.23002409",
+      "latitude": "25.846666",
+      "developmentName": "Regency Pointe Apartments"
+    },
+    {
+      "id": "270",
+      "totalUnits": 448,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.287102",
+      "latitude": "25.778517",
+      "developmentName": "Residential Plaza At Blue Lagoon"
+    },
+    {
+      "id": "271",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.380214",
+      "latitude": "25.632311",
+      "developmentName": "Richmond Pines"
+    },
+    {
+      "id": "272",
+      "totalUnits": 18,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.4819157",
+      "latitude": "25.459257",
+      "developmentName": "Rio Palma"
+    },
+    {
+      "id": "273",
+      "totalUnits": 82,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.209735",
+      "latitude": "25.773015",
+      "developmentName": "Rio Towers"
+    },
+    {
+      "id": "274",
+      "totalUnits": 160,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.482306",
+      "latitude": "25.453555",
+      "developmentName": "River Oaks"
+    },
+    {
+      "id": "275",
+      "totalUnits": 76,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.216009",
+      "latitude": "25.78151",
+      "developmentName": "Rivermont House"
+    },
+    {
+      "id": "276",
+      "totalUnits": 75,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.210024",
+      "latitude": "25.772314",
+      "developmentName": "Riverside Apartments"
+    },
+    {
+      "id": "277",
+      "totalUnits": 123,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.453524",
+      "latitude": "25.473494",
+      "developmentName": "Riverwalk I"
+    },
+    {
+      "id": "278",
+      "totalUnits": 112,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.468053",
+      "latitude": "25.467262",
+      "developmentName": "Riverwalk II"
+    },
+    {
+      "id": "279",
+      "totalUnits": 128,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.288838",
+      "latitude": "25.889447",
+      "developmentName": "Robert Forcum Towers"
+    },
+    {
+      "id": "280",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203749",
+      "latitude": "25.961982",
+      "developmentName": "Robert Sharp Towers I"
+    },
+    {
+      "id": "281",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203802",
+      "latitude": "25.961962",
+      "developmentName": "Robert Sharp Towers II"
+    },
+    {
+      "id": "282",
+      "totalUnits": 174,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.339823",
+      "latitude": "25.625768",
+      "developmentName": "Royal Coast"
+    },
+    {
+      "id": "283",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.238292",
+      "latitude": "25.898488",
+      "developmentName": "Royal Palm Apartments"
+    },
+    {
+      "id": "284",
+      "totalUnits": 145,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.461864",
+      "latitude": "25.469025",
+      "developmentName": "Royal Palm Gardens"
+    },
+    {
+      "id": "285",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.191223",
+      "latitude": "25.77362",
+      "developmentName": "Royalton"
+    },
+    {
+      "id": "286",
+      "totalUnits": 186,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.388425",
+      "latitude": "25.576284",
+      "developmentName": "Running Brook"
+    },
+    {
+      "id": "287",
+      "totalUnits": 74,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.313411",
+      "latitude": "25.861713",
+      "developmentName": "Russ Allen Apartments"
+    },
+    {
+      "id": "288",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.220888",
+      "latitude": "25.793186",
+      "developmentName": "Saint Agustin Villas"
+    },
+    {
+      "id": "289",
+      "totalUnits": 35,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.198824",
+      "latitude": "25.787272",
+      "developmentName": "Saint John I"
+    },
+    {
+      "id": "290",
+      "totalUnits": 124,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.328869",
+      "latitude": "25.868078",
+      "developmentName": "Samari Towers"
+    },
+    {
+      "id": "291",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.470326",
+      "latitude": "25.468229",
+      "developmentName": "San Sherri Villas"
+    },
+    {
+      "id": "292",
+      "totalUnits": 208,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.216278",
+      "latitude": "25.796873",
+      "developmentName": "Santa Clara"
+    },
+    {
+      "id": "293",
+      "totalUnits": 204,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.215747",
+      "latitude": "25.795277",
+      "developmentName": "Santa Clara II"
+    },
+    {
+      "id": "294",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.37397885",
+      "latitude": "25.63686",
+      "developmentName": "SBC Elderly Housing a/k/a 11010 Pinkston Drive"
+    },
+    {
+      "id": "295",
+      "totalUnits": 18,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.277115",
+      "latitude": "25.823955",
+      "developmentName": "Sclad Plaza"
+    },
+    {
+      "id": "296",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.235014",
+      "latitude": "25.843403",
+      "developmentName": "Northpark at Scott Carver (IIa - IIb)"
+    },
+    {
+      "id": "297",
+      "totalUnits": 134,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.236747",
+      "latitude": "25.843426",
+      "developmentName": "Northpark at Scott Carver (IIc)"
+    },
+    {
+      "id": "298",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20697151",
+      "latitude": "25.832314",
+      "developmentName": "Seventh Avenue Transit Village I"
+    },
+    {
+      "id": "299",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.137594",
+      "latitude": "25.777263",
+      "developmentName": "Shelbourne House"
+    },
+    {
+      "id": "300",
+      "totalUnits": 49,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.128543",
+      "latitude": "25.798237",
+      "developmentName": "Shep Davis Plaza"
+    },
+    {
+      "id": "301",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21488247",
+      "latitude": "25.785539",
+      "developmentName": "Shepherd House"
+    },
+    {
+      "id": "302",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.206692",
+      "latitude": "25.79075",
+      "developmentName": "Shepherd's Court"
+    },
+    {
+      "id": "303",
+      "totalUnits": 80,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19139",
+      "latitude": "25.957138",
+      "developmentName": "Sierra Lake Apartments"
+    },
+    {
+      "id": "304",
+      "totalUnits": 392,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.295544",
+      "latitude": "25.941735",
+      "developmentName": "Siesta Pointe"
+    },
+    {
+      "id": "305",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.216904",
+      "latitude": "25.790001",
+      "developmentName": "Singer Plaza"
+    },
+    {
+      "id": "306",
+      "totalUnits": 92,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.211165",
+      "latitude": "25.934762",
+      "developmentName": "Solabella"
+    },
+    {
+      "id": "307",
+      "totalUnits": 97,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.293056",
+      "latitude": "25.708389",
+      "developmentName": "South Miami Plaza"
+    },
+    {
+      "id": "308",
+      "totalUnits": 68,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.278009",
+      "latitude": "25.82485",
+      "developmentName": "South Wind"
+    },
+    {
+      "id": "309",
+      "totalUnits": 123,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.489693",
+      "latitude": "25.462646",
+      "developmentName": "Southpoint Crossing"
+    },
+    {
+      "id": "310",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.295907",
+      "latitude": "25.944664",
+      "developmentName": "Spinnaker Cove"
+    },
+    {
+      "id": "311",
+      "totalUnits": 96,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.382448",
+      "latitude": "25.589203",
+      "developmentName": "St. Anne's Gardens"
+    },
+    {
+      "id": "312",
+      "totalUnits": 150,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.290818",
+      "latitude": "25.778577",
+      "developmentName": "St. Dominic Gardens"
+    },
+    {
+      "id": "313",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19891933",
+      "latitude": "25.78677",
+      "developmentName": "St. John Apartments Rehab"
+    },
+    {
+      "id": "314",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19967565",
+      "latitude": "25.84555",
+      "developmentName": "St. John Bahamas Village Apartments"
+    },
+    {
+      "id": "315",
+      "totalUnits": 26,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19661135",
+      "latitude": "25.788338",
+      "developmentName": "St. John Village 1410"
+    },
+    {
+      "id": "316",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19752449",
+      "latitude": "25.791948",
+      "developmentName": "St. John Village Apartments"
+    },
+    {
+      "id": "317",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.19822707",
+      "latitude": "25.788648",
+      "developmentName": "St. John Village Apts. II"
+    },
+    {
+      "id": "318",
+      "totalUnits": 94,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.206917",
+      "latitude": "25.784806",
+      "developmentName": "St. Martin's Place"
+    },
+    {
+      "id": "319",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.200484",
+      "latitude": "25.844938",
+      "developmentName": "St. Mary's Towers"
+    },
+    {
+      "id": "320",
+      "totalUnits": 84,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.257889",
+      "latitude": "25.94642",
+      "developmentName": "St. Monica Apartments"
+    },
+    {
+      "id": "321",
+      "totalUnits": 102,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.230765",
+      "latitude": "25.867384",
+      "developmentName": "St. Vincent De Paul Gardens"
+    },
+    {
+      "id": "322",
+      "totalUnits": 5,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.33426",
+      "latitude": "25.629343",
+      "developmentName": "Stein Gerontological Institute,inc"
+    },
+    {
+      "id": "323",
+      "totalUnits": 137,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.122821",
+      "latitude": "25.871726",
+      "developmentName": "Stella Maris House"
+    },
+    {
+      "id": "324",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.137922",
+      "latitude": "25.772862",
+      "developmentName": "Steven E. Chaykin"
+    },
+    {
+      "id": "325",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.252944",
+      "latitude": "25.732611",
+      "developmentName": "Stirrup Plaza I"
+    },
+    {
+      "id": "326",
+      "totalUnits": 113,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.221609",
+      "latitude": "25.839538",
+      "developmentName": "Sugar Hill"
+    },
+    {
+      "id": "327",
+      "totalUnits": 106,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.428155",
+      "latitude": "25.51994",
+      "developmentName": "Sunrise Commons"
+    },
+    {
+      "id": "328",
+      "totalUnits": 308,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.352257",
+      "latitude": "25.558527",
+      "developmentName": "Sunset Bay"
+    },
+    {
+      "id": "329",
+      "totalUnits": 71,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.136388",
+      "latitude": "25.775254",
+      "developmentName": "Sunsouth Place"
+    },
+    {
+      "id": "330",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.370093",
+      "latitude": "25.764493",
+      "developmentName": "Sweetwater Towers"
+    },
+    {
+      "id": "331",
+      "totalUnits": 10,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.134412",
+      "latitude": "25.78328",
+      "developmentName": "Swezy"
+    },
+    {
+      "id": "332",
+      "totalUnits": 8,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.221186",
+      "latitude": "25.76189",
+      "developmentName": "Sylvia Court"
+    },
+    {
+      "id": "333",
+      "totalUnits": 151,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.21951",
+      "latitude": "25.792629",
+      "developmentName": "T.M. Alexander  Apartments"
+    },
+    {
+      "id": "334",
+      "totalUnits": 45,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.473933",
+      "latitude": "25.462818",
+      "developmentName": "Teal Pointe"
+    },
+    {
+      "id": "335",
+      "totalUnits": 27,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20764085",
+      "latitude": "25.769539",
+      "developmentName": "Teatro Marti"
+    },
+    {
+      "id": "336",
+      "totalUnits": 61,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201876",
+      "latitude": "25.777031",
+      "developmentName": "Temple Court Apartments"
+    },
+    {
+      "id": "337",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.222147",
+      "latitude": "25.787623",
+      "developmentName": "Tequesta Knoll"
+    },
+    {
+      "id": "338",
+      "totalUnits": 21,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.209954",
+      "latitude": "25.769009",
+      "developmentName": "Teresa Court"
+    },
+    {
+      "id": "339",
+      "totalUnits": 124,
+      "developmentType": "Assisted housing",
+      "longitude": "0",
+      "latitude": "0",
+      "developmentName": "Town Center"
+    },
+    {
+      "id": "340",
+      "totalUnits": 116,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203606",
+      "latitude": "25.792428",
+      "developmentName": "Town Park Plaza South"
+    },
+    {
+      "id": "341",
+      "totalUnits": 151,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.202262",
+      "latitude": "25.790351",
+      "developmentName": "Town Park Village I"
+    },
+    {
+      "id": "342",
+      "totalUnits": 199,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.205257",
+      "latitude": "25.779192",
+      "developmentName": "Tuscan Place"
+    },
+    {
+      "id": "343",
+      "totalUnits": 175,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.206078",
+      "latitude": "25.779302",
+      "developmentName": "Tuscan View"
+    },
+    {
+      "id": "344",
+      "totalUnits": 340,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.413887",
+      "latitude": "25.530541",
+      "developmentName": "Tuscany Place"
+    },
+    {
+      "id": "345",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.216417",
+      "latitude": "25.917804",
+      "developmentName": "Twin Lakes Apartments"
+    },
+    {
+      "id": "346",
+      "totalUnits": 272,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.195733",
+      "latitude": "25.754992",
+      "developmentName": "UTD Towers"
+    },
+    {
+      "id": "347",
+      "totalUnits": 148,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.240534",
+      "latitude": "25.845062",
+      "developmentName": "Valencia Pointe"
+    },
+    {
+      "id": "348",
+      "totalUnits": 4,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.228708",
+      "latitude": "25.7597",
+      "developmentName": "Vanessa Court"
+    },
+    {
+      "id": "349",
+      "totalUnits": 11,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.29795592",
+      "latitude": "25.763984",
+      "developmentName": "Varadero Villas"
+    },
+    {
+      "id": "350",
+      "totalUnits": 99,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.434884",
+      "latitude": "25.504086",
+      "developmentName": "Veranda Senior"
+    },
+    {
+      "id": "351",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.39165616",
+      "latitude": "25.504857",
+      "developmentName": "Verde Gardens Apartments"
+    },
+    {
+      "id": "352",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.209894",
+      "latitude": "25.777088",
+      "developmentName": "Victoria Apartments"
+    },
+    {
+      "id": "353",
+      "totalUnits": 76,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.217613",
+      "latitude": "25.772075",
+      "developmentName": "Villa Aurora"
+    },
+    {
+      "id": "354",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207644",
+      "latitude": "25.775409",
+      "developmentName": "Villa Beatriz"
+    },
+    {
+      "id": "355",
+      "totalUnits": 180,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.439864",
+      "latitude": "25.501848",
+      "developmentName": "Villa Biscayne"
+    },
+    {
+      "id": "356",
+      "totalUnits": 220,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.426702",
+      "latitude": "25.505012",
+      "developmentName": "Villa Capri"
+    },
+    {
+      "id": "357",
+      "totalUnits": 140,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.42709",
+      "latitude": "25.504774",
+      "developmentName": "Villa Capri III"
+    },
+    {
+      "id": "358",
+      "totalUnits": 12,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207341",
+      "latitude": "25.769301",
+      "developmentName": "Villa Christina"
+    },
+    {
+      "id": "359",
+      "totalUnits": 24,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.204771",
+      "latitude": "25.767765",
+      "developmentName": "Villa Elena"
+    },
+    {
+      "id": "360",
+      "totalUnits": 192,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.299883",
+      "latitude": "25.941964",
+      "developmentName": "Villa Esperanza"
+    },
+    {
+      "id": "361",
+      "totalUnits": 76,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.382281",
+      "latitude": "25.76875",
+      "developmentName": "Villa Hermosa"
+    },
+    {
+      "id": "362",
+      "totalUnits": 13,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203096",
+      "latitude": "25.769681",
+      "developmentName": "Villa La Nina"
+    },
+    {
+      "id": "363",
+      "totalUnits": 28,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.204794",
+      "latitude": "25.768803",
+      "developmentName": "Villa La Pinta Apartments"
+    },
+    {
+      "id": "364",
+      "totalUnits": 8,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20282",
+      "latitude": "25.770408",
+      "developmentName": "Villa Lisa"
+    },
+    {
+      "id": "365",
+      "totalUnits": 20,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20491",
+      "latitude": "25.771552",
+      "developmentName": "Villa Margarita"
+    },
+    {
+      "id": "366",
+      "totalUnits": 34,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.125515",
+      "latitude": "25.804661",
+      "developmentName": "Villa Maria"
+    },
+    {
+      "id": "367",
+      "totalUnits": 10,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.207613",
+      "latitude": "25.774908",
+      "developmentName": "Villa Marivi"
+    },
+    {
+      "id": "368",
+      "totalUnits": 36,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.12560098",
+      "latitude": "25.80452",
+      "developmentName": "Villa Matti Apartments"
+    },
+    {
+      "id": "369",
+      "totalUnits": 3,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.204542",
+      "latitude": "25.771696",
+      "developmentName": "Villa Obdulia"
+    },
+    {
+      "id": "370",
+      "totalUnits": 125,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.192137",
+      "latitude": "25.846923",
+      "developmentName": "Villa Patricia"
+    },
+    {
+      "id": "371",
+      "totalUnits": 125,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.192381",
+      "latitude": "25.847083",
+      "developmentName": "Villa Patricia II"
+    },
+    {
+      "id": "372",
+      "totalUnits": 89,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.192337",
+      "latitude": "25.846853",
+      "developmentName": "Villa Patricia III"
+    },
+    {
+      "id": "373",
+      "totalUnits": 22,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20458",
+      "latitude": "25.771992",
+      "developmentName": "Villa Pina"
+    },
+    {
+      "id": "374",
+      "totalUnits": 6,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.205582",
+      "latitude": "25.768409",
+      "developmentName": "Villa Rosa"
+    },
+    {
+      "id": "375",
+      "totalUnits": 30,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201621",
+      "latitude": "25.768317",
+      "developmentName": "Villa Sara"
+    },
+    {
+      "id": "376",
+      "totalUnits": 27,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.202794",
+      "latitude": "25.77011",
+      "developmentName": "Villa Sonia"
+    },
+    {
+      "id": "377",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.223888",
+      "latitude": "25.799116",
+      "developmentName": "Village Allapattah"
+    },
+    {
+      "id": "378",
+      "totalUnits": 90,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.223779",
+      "latitude": "25.799163",
+      "developmentName": "Village Allapattah II"
+    },
+    {
+      "id": "379",
+      "totalUnits": 112,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203628",
+      "latitude": "25.840596",
+      "developmentName": "Village Carver"
+    },
+    {
+      "id": "380",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.203631",
+      "latitude": "25.840361",
+      "developmentName": "Village Carver II"
+    },
+    {
+      "id": "381",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.3741415",
+      "latitude": "25.566433",
+      "developmentName": "Village of Southland, The"
+    },
+    {
+      "id": "382",
+      "totalUnits": 0,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.20882352",
+      "latitude": "25.837653",
+      "developmentName": "Villages Apartments, The"
+    },
+    {
+      "id": "383",
+      "totalUnits": 259,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.414588",
+      "latitude": "25.517675",
+      "developmentName": "Villages Of Naranja"
+    },
+    {
+      "id": "384",
+      "totalUnits": 288,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.253828",
+      "latitude": "25.727109",
+      "developmentName": "Villas Del Lago"
+    },
+    {
+      "id": "385",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.231637",
+      "latitude": "25.765602",
+      "developmentName": "Vista Alegre Apartments"
+    },
+    {
+      "id": "386",
+      "totalUnits": 89,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.197806",
+      "latitude": "25.765694",
+      "developmentName": "Vista Grande"
+    },
+    {
+      "id": "387",
+      "totalUnits": 110,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.204051",
+      "latitude": "25.809846",
+      "developmentName": "Vista Mar"
+    },
+    {
+      "id": "388",
+      "totalUnits": 174,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.324746",
+      "latitude": "25.778826",
+      "developmentName": "Vizcaya Villas"
+    },
+    {
+      "id": "389",
+      "totalUnits": 290,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.214421",
+      "latitude": "25.968496",
+      "developmentName": "Walden Pond Villas"
+    },
+    {
+      "id": "390",
+      "totalUnits": 100,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.234284",
+      "latitude": "25.823823",
+      "developmentName": "Ward Towers Assisted Living Facility"
+    },
+    {
+      "id": "392",
+      "totalUnits": 72,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.14744",
+      "latitude": "25.956472",
+      "developmentName": "Waterford at Aventura"
+    },
+    {
+      "id": "393",
+      "totalUnits": 130,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.196721",
+      "latitude": "25.764711",
+      "developmentName": "West Brickell"
+    },
+    {
+      "id": "394",
+      "totalUnits": 32,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.197583",
+      "latitude": "25.763833",
+      "developmentName": "West Brickell Tower"
+    },
+    {
+      "id": "395",
+      "totalUnits": 64,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.196722",
+      "latitude": "25.766028",
+      "developmentName": "West Brickell View"
+    },
+    {
+      "id": "396",
+      "totalUnits": 160,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.237543",
+      "latitude": "25.883404",
+      "developmentName": "Westview Garden"
+    },
+    {
+      "id": "397",
+      "totalUnits": 117,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.457415",
+      "latitude": "25.483394",
+      "developmentName": "Winchester Gardens"
+    },
+    {
+      "id": "398",
+      "totalUnits": 103,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.4252",
+      "latitude": "25.5235",
+      "developmentName": "Woodside Oaks"
+    },
+    {
+      "id": "399",
+      "totalUnits": 40,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.201723",
+      "latitude": "25.805319",
+      "developmentName": "Wynwood Apartments"
+    },
+    {
+      "id": "391",
+      "totalUnits": 88,
+      "developmentType": "Assisted housing",
+      "longitude": "-80.208113",
+      "latitude": "25.789673",
+      "developmentName": "Washington Square"
+    }
+  ]
+}
