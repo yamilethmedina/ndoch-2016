@@ -113,6 +113,33 @@ The padding is very important to make sure the scrollspy picks up the right area
     background: #f8f8fa;
 
 }
+/*
+.name {
+  font-size: 18px;
+  margin-bottom: 5px;
+  width: 30%;
+
+}
+
+.familySize {
+  font-size: 16px;
+  float: left;
+  width: 30%;
+
+}
+
+.income {
+  font-size: 16px;
+  width: 30%;
+  padding-bottom:10px;
+
+}
+
+*/
+
+.testimonial {
+  padding: 20px;
+}
 
 @media(min-width:767px) {
 
