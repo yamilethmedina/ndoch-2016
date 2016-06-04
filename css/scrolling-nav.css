@@ -51,7 +51,6 @@ The padding is very important to make sure the scrollspy picks up the right area
 
 
 
-<<<<<<< HEAD
 .about-section {
     height: 100%;
     padding-top: 150px;
@@ -71,7 +70,7 @@ The padding is very important to make sure the scrollspy picks up the right area
     padding-top: 150px;
     text-align: center;
     background: #e5e6eb;
-=======
+
 .introSection {
     height: 100%;
     padding-top: 150px;
@@ -91,7 +90,6 @@ The padding is very important to make sure the scrollspy picks up the right area
 .introSection p{
     
     padding-top: 110px;
->>>>>>> refs/remotes/origin/master
 }
 
 .qualification {
@@ -128,9 +126,7 @@ The padding is very important to make sure the scrollspy picks up the right area
     height: 100%;
     padding-top: 150px;
     text-align: center;
-<<<<<<< HEAD
+
     background: #f8f8fa;
-=======
-    background: #eee;
->>>>>>> refs/remotes/origin/master
+
 }
