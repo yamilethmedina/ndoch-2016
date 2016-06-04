@@ -149,6 +149,10 @@ The padding is very important to make sure the scrollspy picks up the right area
   padding: 50px;
 }
 
+.leafletMap {
+    height: 600px;
+}
+
 .name {
   font-size: 20px;
 }
